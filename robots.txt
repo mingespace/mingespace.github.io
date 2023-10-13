@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://mingespace.github.io/sitemap.xml
